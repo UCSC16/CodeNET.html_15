@@ -2,4 +2,4 @@ hi, I am Anuki
 
 this is my first pull request
 
-2nd day : upstream my code
+2nd day : branch Anuki
